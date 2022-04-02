@@ -1,6 +1,6 @@
 # Dive Buddies | Template
 
-A template repository for any projects. This includes any configuration files, workflow files or scripts that can be use throughout the organisation.
+A template repository for any projects. This includes any configuration files, workflow files or scripts that can be used throughout the organisation.
 
 ## Directory Structure
 
@@ -11,7 +11,7 @@ buddies-blue/template/
 ├─ tests/
    └─ # Unit and integration tests
 ├─ tools/
-	└─ # Scripts
+   └─ # Scripts
 ├─ .editorconfig
 ├─ .gitignore
 └─ README.md
